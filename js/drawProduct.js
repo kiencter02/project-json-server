@@ -31,7 +31,6 @@ export const drawProduct = () => {
                             <span class="product-item__stock">Còn lại: ${item.stock} sản phẩm</span>
                         </div>
                     </div>
-                    <button onclick="detailProduct">Chi tiết sản phẩm</button>
                 </div>
             `;
             });
